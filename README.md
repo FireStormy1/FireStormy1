@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Saswat Dixit** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# Hi there, I'm **Saswat Dixit** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
 <p align="center">
 
@@ -32,8 +32,8 @@
    and Data Structures & Algorithms.
 
 🎯 I enjoy building useful applications that solve
-real-world problems while continuously improving my
-programming skills.
+   real-world problems while continuously improving my
+   programming skills.
 ```
 
 ---
@@ -150,31 +150,12 @@ Libraries & Tools
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FireStormy1&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/FireStormy1/FireStormy1/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -209,12 +190,6 @@ performance, cleaner UI, and additional academic tools.
 # 🎯 Currently Working On
 
 ```text
-🚀 GuessIt
-A multiplayer deduction party game inspired by
-20 Questions and Skribbl.
-
-━━━━━━━━━━━━━━━━━━━━━━
-
 📚 AI / ML Learning
 
 Building notes, projects and practical implementations.
@@ -251,33 +226,6 @@ Making academic life easier for Silicon University students.
 # 💭 Favorite Quote
 
 > **"Jack of all trades, master of none, but oftentimes better than master of one."**
-
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Fun Facts
-
-```text
-🎮 I enjoy building multiplayer web applications.
-
-🧠 I love learning new technologies.
-
-💻 I prefer solving problems before searching for solutions.
-
-🚀 I believe consistency beats intensity.
-
-🌍 My long-term goal is to work on cutting-edge AI
-and GPU technologies.
-```
 
 ---
 
