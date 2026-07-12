@@ -196,7 +196,6 @@ A modern, interactive, and visually immersive periodic table
 ---
 # 🎯 Currently Working On
 
-```text
 📚 AI / ML Learning
 
 Building notes, projects and practical implementations.
