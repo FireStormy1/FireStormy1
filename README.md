@@ -174,7 +174,7 @@ Academic Companion for Silicon University students.
 * Student Friendly UI
 * Quick Academic Utilities
 
-🔗 https://github.com/FireStormy1/Acadelytics
+🔗 https://acadelytics.vercel.app/
 
 ---
 
@@ -183,10 +183,17 @@ Academic Companion for Silicon University students.
 A complete redesign focused on better architecture,
 performance, cleaner UI, and additional academic tools.
 
-🔗 https://github.com/FireStormy1/Acadelytics-v2.0
+🔗 https://acadelytics-v2-0.vercel.app/
 
 ---
 
+## 🚀 AtomVerse
+
+A modern, interactive, and visually immersive periodic table
+
+🔗 https://atom-verse.vercel.app/
+
+---
 # 🎯 Currently Working On
 
 ```text
@@ -195,12 +202,6 @@ performance, cleaner UI, and additional academic tools.
 Building notes, projects and practical implementations.
 
 ━━━━━━━━━━━━━━━━━━━━━━
-
-🎓 Acadelytics v2
-
-Making academic life easier for Silicon University students.
-```
-
 ---
 
 # 🌐 Connect With Me
