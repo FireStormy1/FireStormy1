@@ -182,6 +182,16 @@ A modern, interactive, and visually immersive periodic table
 🔗 https://atom-verse.vercel.app/
 
 ---
+
+
+## 🚀 AtomVerse v2
+
+A complete redesign focused on better architecture,
+performance, cleaner UI, and additional academic tools.
+
+🔗 https://atom-verse-v2-0.vercel.app/
+
+---
 # 🎯 Currently Working On
 
 📚 AI / ML Learning
