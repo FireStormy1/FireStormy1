@@ -32,11 +32,11 @@ I learn best by building — turning ideas into projects, experimenting with dif
 
 ## 2026 GOALS
 
-* Solve **500+ DSA problems**
-* Build meaningful **AI/ML projects**
-* Strengthen backend development
-* Contribute to open source
-* Become a significantly better problem solver
+`01` Solve **500+ DSA problems**
+`02` Build meaningful **AI/ML projects**
+`03` Strengthen backend development
+`04` Contribute to open source
+`05` Become a significantly better problem solver
 
 > Progress over perfection.
 
@@ -83,16 +83,15 @@ A simple academic utility platform designed to make **SGPA and CGPA calculations
 
 **Features**
 
-* SGPA calculator
-* CGPA calculator
-* Credit-based calculations
-* Grade and marks input
-* Academic utilities
-* Responsive interface
-* Student-focused UX
+`+` SGPA calculator
+`+` CGPA calculator
+`+` Credit-based calculations
+`+` Grade and marks input
+`+` Academic utilities
+`+` Responsive interface
+`+` Student-focused UX
 
-**Live:**
-[acadelytics.vercel.app](https://acadelytics.vercel.app/)
+**↗ Live:** [acadelytics.vercel.app](https://acadelytics.vercel.app/)
 
 ---
 
@@ -104,14 +103,13 @@ A redesigned version of Acadelytics focused on improved architecture, cleaner UI
 
 **Focus**
 
-* Modern architecture
-* Improved UI/UX
-* Better performance
-* Expanded academic tools
-* Responsive experience
+`◆` Modern architecture
+`◆` Improved UI/UX
+`◆` Better performance
+`◆` Expanded academic tools
+`◆` Responsive experience
 
-**Live:**
-[acadelytics-v2-0.vercel.app](https://acadelytics-v2-0.vercel.app/)
+**↗ Live:** [acadelytics-v2-0.vercel.app](https://acadelytics-v2-0.vercel.app/)
 
 ---
 
@@ -123,14 +121,13 @@ An interactive periodic table designed to make learning about chemical elements 
 
 **Features**
 
-* Interactive periodic table
-* Element information
-* Animated interactions
-* Visual exploration
-* Responsive interface
+`+` Interactive periodic table
+`+` Element information
+`+` Animated interactions
+`+` Visual exploration
+`+` Responsive interface
 
-**Live:**
-[atom-verse.vercel.app](https://atom-verse.vercel.app/)
+**↗ Live:** [atom-verse.vercel.app](https://atom-verse.vercel.app/)
 
 ---
 
@@ -142,14 +139,13 @@ A redesigned version focused on cleaner architecture, smoother interactions, imp
 
 **Focus**
 
-* Refined architecture
-* Modern UI
-* Improved interactions
-* Performance improvements
-* Responsive design
+`◆` Refined architecture
+`◆` Modern UI
+`◆` Improved interactions
+`◆` Performance improvements
+`◆` Responsive design
 
-**Live:**
-[atom-verse-v2-0.vercel.app](https://atom-verse-v2-0.vercel.app/)
+**↗ Live:** [atom-verse-v2-0.vercel.app](https://atom-verse-v2-0.vercel.app/)
 
 ---
 
@@ -163,16 +159,16 @@ Built to work across desktop and mobile with a focus on responsive gameplay and 
 
 **Features**
 
-* Classic Tetris gameplay
-* Multiple difficulty levels
-* Real-time score tracking
-* High-score tracking
-* Next-piece preview
-* Keyboard controls
-* Mobile touch controls
-* Responsive design
-* Game-over and restart system
-* Screenshot sharing
+`+` Classic Tetris gameplay
+`+` Multiple difficulty levels
+`+` Real-time score tracking
+`+` High-score tracking
+`+` Next-piece preview
+`+` Keyboard controls
+`+` Mobile touch controls
+`+` Responsive design
+`+` Game-over & restart system
+`+` Screenshot sharing
 
 **Mobile controls**
 
@@ -184,26 +180,25 @@ Built to work across desktop and mobile with a focus on responsive gameplay and 
 
 The visual direction takes inspiration from **minimal Japanese retro design** — restrained typography, simple geometry, nostalgic elements, and a clean interface without unnecessary visual noise.
 
-**Live:**
-`YOUR_TETRIS_VERCEL_URL`
+**↗ Live:** `YOUR_TETRIS_VERCEL_URL`
 
 ---
 
 # CURRENTLY BUILDING
 
-### AI / ML
+### `AI / ML`
 
 Learning the fundamentals of intelligent systems and building practical projects to understand AI beyond theory.
 
-### DSA
+### `DSA`
 
 Improving problem-solving ability through consistent practice and implementation.
 
-### Full Stack Development
+### `Full Stack Development`
 
 Learning how complete applications are designed, developed, deployed, and maintained.
 
-### Open Source
+### `Open Source`
 
 Exploring ways to contribute to projects, learn from experienced developers, and become part of the developer community.
 
@@ -226,27 +221,38 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 # GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FireStormy1&show_icons=true&hide_border=true&theme=default" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireStormy1&hide_border=true&theme=default" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FireStormy1&show_icons=true&hide_border=true&theme=default" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FireStormy1&hide_border=true&theme=default" height="165">
+
 </p>
 
 ---
 
-# CONTRIBUTION GRAPH
+# CONTRIBUTIONS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&hide_border=true&area=true" width="95%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&hide_border=true&area=true" width="95%">
+
 </p>
 
 ---
 
 # CONNECT
 
-**GitHub**
-[github.com/FireStormy1](https://github.com/FireStormy1)
+<p align="center">
 
-**LinkedIn**
-[linkedin.com/in/saswatdixit](https://www.linkedin.com/in/saswatdixit/)
+<a href="https://github.com/FireStormy1">
+<img src="https://cdn.simpleicons.org/github/111111" width="32" alt="GitHub">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saswatdixit/">
+<img src="https://cdn.simpleicons.org/linkedin/111111" width="32" alt="LinkedIn">
+</a>
+
+</p>
 
 ---
 
