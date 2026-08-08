@@ -222,8 +222,6 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FireStormy1&show_icons=true&hide_border=true&theme=default" height="165">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireStormy1&hide_border=true&theme=default" height="165">
 
 </p>
