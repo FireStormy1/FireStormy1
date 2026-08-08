@@ -16,42 +16,16 @@ I'm currently exploring **Artificial Intelligence, Machine Learning, Deep Learni
 
 I learn best by building — turning ideas into projects, experimenting with different technologies, breaking things, fixing them, and improving along the way.
 
-```text
-                         ┌───────────────┐
-                         │     IDEA      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                            BUILD
-                                 │
-                                 ▼
-                           EXPERIMENT
-                                 │
-                         ┌───────┴───────┐
-                         ▼               ▼
-                       LEARN          IMPROVE
-                         │               │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                              REPEAT
-```
-
 ---
 
 ## CURRENTLY LEARNING
 
 ```text
 01  Data Structures & Algorithms
-
 02  Artificial Intelligence
-
 03  Machine Learning & Deep Learning
-
 04  Full Stack Development
-
 05  Advanced Python
-
 ```
 
 ---
@@ -95,28 +69,6 @@ I learn best by building — turning ideas into projects, experimenting with dif
 
 I enjoy building projects that combine **functionality, simplicity, and good design**.
 
-```text
-          USEFUL
-             │
-             ▼
-        ┌──────────┐
-        │  SIMPLE  │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │   FAST   │
-        └────┬─────┘
-             │
-             ▼
-        ┌──────────┐
-        │  CLEAN   │
-        └────┬─────┘
-             │
-             ▼
-          BETTER
-```
-
 My projects are often experiments in learning something new, solving a practical problem, or simply creating something I think would be fun to use.
 
 ---
@@ -140,7 +92,7 @@ A simple academic utility platform designed to make **SGPA and CGPA calculations
 * Student-focused UX
 
 **Live:**
-https://acadelytics.vercel.app/
+[acadelytics.vercel.app](https://acadelytics.vercel.app/)
 
 ---
 
@@ -159,7 +111,7 @@ A redesigned version of Acadelytics focused on improved architecture, cleaner UI
 * Responsive experience
 
 **Live:**
-https://acadelytics-v2-0.vercel.app/
+[acadelytics-v2-0.vercel.app](https://acadelytics-v2-0.vercel.app/)
 
 ---
 
@@ -178,7 +130,7 @@ An interactive periodic table designed to make learning about chemical elements 
 * Responsive interface
 
 **Live:**
-https://atom-verse.vercel.app/
+[atom-verse.vercel.app](https://atom-verse.vercel.app/)
 
 ---
 
@@ -197,7 +149,7 @@ A redesigned version focused on cleaner architecture, smoother interactions, imp
 * Responsive design
 
 **Live:**
-https://atom-verse-v2-0.vercel.app/
+[atom-verse-v2-0.vercel.app](https://atom-verse-v2-0.vercel.app/)
 
 ---
 
@@ -271,24 +223,19 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 
 ---
 
-# GITHUB
+# GITHUB STATS
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FireStormy1&show_icons=true&hide_border=true&theme=default" height="165">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FireStormy1&hide_border=true&theme=default" height="165">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=FireStormy1&show_icons=true&hide_border=true&theme=default" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireStormy1&hide_border=true&theme=default" height="165">
 </p>
 
 ---
 
-# CONTRIBUTIONS
+# CONTRIBUTION GRAPH
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&hide_border=true&area=true" width="95%">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&hide_border=true&area=true" width="95%">
 </p>
 
 ---
@@ -296,10 +243,10 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 # CONNECT
 
 **GitHub**
-https://github.com/FireStormy1
+[github.com/FireStormy1](https://github.com/FireStormy1)
 
 **LinkedIn**
-https://www.linkedin.com/in/saswatdixit/
+[linkedin.com/in/saswatdixit](https://www.linkedin.com/in/saswatdixit/)
 
 ---
 
@@ -312,8 +259,6 @@ I don't want to restrict myself to one technology.
 I want to understand different areas of computing, build across disciplines, and eventually become exceptionally good at **solving problems**.
 
 ---
-
-<br>
 
 <p align="center">
 
