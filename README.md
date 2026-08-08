@@ -1,236 +1,338 @@
-# Hi there, I'm **Saswat Dixit** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# SASWAT DIXIT
 
-<p align="center">
+### `Code. Learn. Build. Repeat.`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=B.Tech+CSE+Student;AI+%7C+ML+Enthusiast;Full-Stack+Developer;DSA+Learner;Building+Projects+That+Matter+🚀" />
+**B.Tech Computer Science Student @ Silicon University**
 
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=FireStormy1&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/FireStormy1?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/FireStormy1?style=for-the-badge"/>
-
-</p>
+> Building useful things with code, exploring AI, and learning how technology works from the ground up.
 
 ---
 
-# 💫 About Me
+## ABOUT ME
+
+I'm **Saswat Dixit**, a Computer Science student from India passionate about software development, problem solving, and emerging technologies.
+
+I'm currently exploring **Artificial Intelligence, Machine Learning, Deep Learning, Full Stack Development, and Data Structures & Algorithms**.
+
+I learn best by building — turning ideas into projects, experimenting with different technologies, breaking things, fixing them, and improving along the way.
 
 ```text
-👨‍🎓 B.Tech Computer Science Student @ Silicon University
-
-💡 Passionate about solving problems with code.
-
-🚀 Currently exploring Artificial Intelligence,
-   Machine Learning,
-   Deep Learning,
-   Full Stack Development,
-   and Data Structures & Algorithms.
-
-🎯 I enjoy building useful applications that solve
-   real-world problems while continuously improving my
-   programming skills.
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                            BUILD
+                                 │
+                                 ▼
+                           EXPERIMENT
+                                 │
+                         ┌───────┴───────┐
+                         ▼               ▼
+                       LEARN          IMPROVE
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                              REPEAT
 ```
 
 ---
 
-# 🌱 Current Journey
+## CURRENTLY LEARNING
 
 ```text
-🟢 Learning
-│
-├── 📘 Data Structures & Algorithms
-├── 🤖 Artificial Intelligence
-├── 🧠 Machine Learning
-├── 🌐 Full Stack Development
-├── 🐍 Advanced Python
-└── ☁️ Backend Systems
+01  Data Structures & Algorithms
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+02  Artificial Intelligence
 
-🎯 2026 Goals
+03  Machine Learning & Deep Learning
 
-✓ Solve 500+ DSA Problems
-✓ Build AI/ML Projects
-✓ Master Backend Development
-✓ Contribute to Open Source
-✓ Land an Internship
+04  Full Stack Development
+
+05  Advanced Python
+
 ```
 
 ---
 
-# 🚀 Dream Companies
+## 2026 GOALS
+
+* Solve **500+ DSA problems**
+* Build meaningful **AI/ML projects**
+* Strengthen backend development
+* Contribute to open source
+* Become a significantly better problem solver
+
+> Progress over perfection.
+
+---
+
+## TECH STACK
+
+### PROGRAMMING
+
+`Python` `Java` `C` `JavaScript` `HTML5` `CSS3`
+
+### AI / MACHINE LEARNING
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-Learn`
+`TensorFlow` `PyTorch` `OpenCV`
+
+### WEB DEVELOPMENT
+
+`React` `TypeScript` `JavaScript` `Vite`
+`Responsive Design` `REST APIs`
+
+### TOOLS & PLATFORMS
+
+`Git` `GitHub` `VS Code` `Linux`
+`Docker` `AWS` `Vercel` `Figma` `Canva`
+
+---
+
+## WHAT I LIKE TO BUILD
+
+I enjoy building projects that combine **functionality, simplicity, and good design**.
+
+```text
+          USEFUL
+             │
+             ▼
+        ┌──────────┐
+        │  SIMPLE  │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │   FAST   │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │  CLEAN   │
+        └────┬─────┘
+             │
+             ▼
+          BETTER
+```
+
+My projects are often experiments in learning something new, solving a practical problem, or simply creating something I think would be fun to use.
+
+---
+
+# FEATURED PROJECTS
+
+## 01 — Acadelytics
+
+### Academic Companion for University Students
+
+A simple academic utility platform designed to make **SGPA and CGPA calculations** faster and easier for students.
+
+**Features**
+
+* SGPA calculator
+* CGPA calculator
+* Credit-based calculations
+* Grade and marks input
+* Academic utilities
+* Responsive interface
+* Student-focused UX
+
+**Live:**
+https://acadelytics.vercel.app/
+
+---
+
+## 02 — Acadelytics v2
+
+### A New Generation of Acadelytics
+
+A redesigned version of Acadelytics focused on improved architecture, cleaner UI, better performance, and an expanded academic experience.
+
+**Focus**
+
+* Modern architecture
+* Improved UI/UX
+* Better performance
+* Expanded academic tools
+* Responsive experience
+
+**Live:**
+https://acadelytics-v2-0.vercel.app/
+
+---
+
+## 03 — AtomVerse
+
+### Explore the Periodic Table Differently
+
+An interactive periodic table designed to make learning about chemical elements more engaging through animation and visual interaction.
+
+**Features**
+
+* Interactive periodic table
+* Element information
+* Animated interactions
+* Visual exploration
+* Responsive interface
+
+**Live:**
+https://atom-verse.vercel.app/
+
+---
+
+## 04 — AtomVerse v2
+
+### A Refined AtomVerse Experience
+
+A redesigned version focused on cleaner architecture, smoother interactions, improved performance, and a more immersive interface.
+
+**Focus**
+
+* Refined architecture
+* Modern UI
+* Improved interactions
+* Performance improvements
+* Responsive design
+
+**Live:**
+https://atom-verse-v2-0.vercel.app/
+
+---
+
+## 05 — Tetris
+
+### A Minimal Retro Tetris Experience
+
+A browser-based Tetris game combining classic gameplay with a **minimal retro-inspired visual style**.
+
+Built to work across desktop and mobile with a focus on responsive gameplay and simple, intuitive controls.
+
+**Features**
+
+* Classic Tetris gameplay
+* Multiple difficulty levels
+* Real-time score tracking
+* High-score tracking
+* Next-piece preview
+* Keyboard controls
+* Mobile touch controls
+* Responsive design
+* Game-over and restart system
+* Screenshot sharing
+
+**Mobile controls**
+
+```text
+                ↻
+
+           ←    ↓    →
+```
+
+The visual direction takes inspiration from **minimal Japanese retro design** — restrained typography, simple geometry, nostalgic elements, and a clean interface without unnecessary visual noise.
+
+**Live:**
+`YOUR_TETRIS_VERCEL_URL`
+
+---
+
+# CURRENTLY BUILDING
+
+### AI / ML
+
+Learning the fundamentals of intelligent systems and building practical projects to understand AI beyond theory.
+
+### DSA
+
+Improving problem-solving ability through consistent practice and implementation.
+
+### Full Stack Development
+
+Learning how complete applications are designed, developed, deployed, and maintained.
+
+### Open Source
+
+Exploring ways to contribute to projects, learn from experienced developers, and become part of the developer community.
+
+---
+
+# DREAM DESTINATIONS
+
+```text
+Google        Microsoft
+NVIDIA        OpenAI
+Meta
+```
+
+The goal isn't simply to work for a big company.
+
+It's to eventually work on **challenging problems, large-scale systems, and technology that matters.**
+
+---
+
+# GITHUB
 
 <p align="center">
 
-Google • Microsoft • NVIDIA • OpenAI • Meta
+<img src="https://github-readme-stats.vercel.app/api?username=FireStormy1&show_icons=true&hide_border=true&theme=default" height="165">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FireStormy1&hide_border=true&theme=default" height="165">
 
 </p>
 
 ---
 
-# 🛠 Tech Universe
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js"/>
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,opencv"/>
-
-</p>
-
-Libraries & Tools
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* TensorFlow
-* PyTorch
-* OpenCV
-
----
-
-## 🌐 Full Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mysql"/>
-
-</p>
-
----
-
-## ⚙️ Developer Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,railway"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
+# CONTRIBUTIONS
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=FireStormy1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&hide_border=true&area=true" width="95%">
 
 </p>
 
 ---
 
+# CONNECT
 
-# 📈 Contribution Graph
+**GitHub**
+https://github.com/FireStormy1
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FireStormy1&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🎓 Acadelytics
-
-Academic Companion for Silicon University students.
-
-✨ Features
-
-* GPA Calculator
-* SGPA & CGPA Calculation
-* Student Friendly UI
-* Quick Academic Utilities
-
-🔗 https://acadelytics.vercel.app/
+**LinkedIn**
+https://www.linkedin.com/in/saswatdixit/
 
 ---
 
-## 🚀 Acadelytics v2
-
-A complete redesign focused on better architecture,
-performance, cleaner UI, and additional academic tools.
-
-🔗 https://acadelytics-v2-0.vercel.app/
-
----
-
-## 🚀 AtomVerse
-
-A modern, interactive, and visually immersive periodic table
-
-🔗 https://atom-verse.vercel.app/
-
----
-
-
-## 🚀 AtomVerse v2
-
-A complete redesign focused on better architecture,
-performance, cleaner UI, and additional academic tools.
-
-🔗 https://atom-verse-v2-0.vercel.app/
-
----
-# 🎯 Currently Working On
-
-📚 AI / ML Learning
-
-Building notes, projects and practical implementations.
-
-━━━━━━━━━━━━━━━━━━━━━━
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/saswatdixit/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saswatdixit01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/FireStormy/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# 💭 Favorite Quote
+# A THOUGHT
 
 > **"Jack of all trades, master of none, but oftentimes better than master of one."**
 
+I don't want to restrict myself to one technology.
+
+I want to understand different areas of computing, build across disciplines, and eventually become exceptionally good at **solving problems**.
+
+---
+
+<br>
+
+<p align="center">
+
+**Code. Learn. Build. Repeat.**
+
+<br>
+
+七転び八起き
+
+*Nana korobi ya oki* — **"Fall seven times, stand up eight."**
+
+</p>
+
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting.
 
-*"Code. Learn. Build. Repeat."*
+**Saswat Dixit · B.Tech CSE · Builder · Learner**
 
 </p>
