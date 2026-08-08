@@ -244,16 +244,11 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 
 <p align="center">
 
-<a href="https://github.com/FireStormy1">
-  <img src="https://github.com/user-attachments/assets/2c8e4f2f-4f8f-4b4e-9f4a-5e4f4b6d3e8f" width="32" alt="GitHub">
-</a>
+<a href="https://github.com/FireStormy1">⚫ GitHub</a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saswatdixit/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="32" alt="LinkedIn">
-</a>
+<a href="https://www.linkedin.com/in/saswatdixit/">🔵 LinkedIn</a>
 
 </p>
-
 ---
 
 # A THOUGHT
