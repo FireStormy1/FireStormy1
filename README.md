@@ -242,7 +242,7 @@ It's to eventually work on **challenging problems, large-scale systems, and tech
 
 <p align="center">
 
-<a href="https://github.com/FireStormy1">⚫ GitHub</a>
+<a href="https://github.com/saswatdixit">⚫ GitHub</a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saswatdixit/">🔵 LinkedIn</a>
 
