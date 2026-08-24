@@ -180,7 +180,7 @@ Built to work across desktop and mobile with a focus on responsive gameplay and 
 
 The visual direction takes inspiration from **minimal Japanese retro design** — restrained typography, simple geometry, nostalgic elements, and a clean interface without unnecessary visual noise.
 
-**↗ Live:** `YOUR_TETRIS_VERCEL_URL`
+**↗ Live:** `https://tetris-snowy-theta.vercel.app/`
 
 ---
 
